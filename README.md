@@ -53,6 +53,7 @@ Project Title: Sudoku Solver
    Sudoku puzzle. Please note that the input must be a single line of all 81
    numbers within the Sudoku board in row order. For example the following
    Sudoku puzzle:
+   
     0   0   3  | 0   2   0  | 6   0   0  
     9   0   0  | 3   0   5  | 0   0   1  
     0   0   1  | 8   0   6  | 4   0   0  
