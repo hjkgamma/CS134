@@ -2,8 +2,11 @@
 CS134 Sudoku Solver Project
 
 Student Name: Hyeongjin Kim
+
 Mentor: Dzung Pham
+
 Project Title: Sudoku Solver
+
 
 1. Describe (briefly) the files and folders found in this project.
    README - this file, an overview of the project
